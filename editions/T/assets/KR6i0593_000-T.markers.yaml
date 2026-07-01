@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6i0593/T/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6i0593_T_000-0359a, 'n': 0359a, ed: T, source_xml_id: T26.1534.0359a}
+  - {type: line-break, offset: 0, content: '', id: KR6i0593_T_000-0359a01, ed: T, 'n': 0359a01}
+  - {type: line-break, offset: 0, content: '', id: KR6i0593_T_000-0359a02, ed: T, 'n': 0359a02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0593_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0593_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0593_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6i0593_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '5', id: KR6i0593_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '3', id: KR6i0593_T_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '4', id: KR6i0593_T_000-bkkpn7}
+  - {type: line-break, offset: 0, content: '', id: KR6i0593_T_000-0359a03, ed: T, 'n': 0359a03}
+  - {type: line-break, offset: 10, content: '', id: KR6i0593_T_000-0359a04, ed: T, 'n': 0359a04}
+  - {type: variant, offset: 10, length: 1, content: 之, 明: ''}
+  - {type: variant, offset: 12, length: 2, content: 一卷, 宋: '', 元: '', 明: ''}
+  - {type: line-break, offset: 14, content: '', id: KR6i0593_T_000-0359a05, ed: T, 'n': 0359a05}
+  - {type: line-break, offset: 14, content: '', id: KR6i0593_T_000-0359a06, ed: T, 'n': 0359a06}
+  - {type: xml-element, offset: 14, content: '', id: pT26p0359a0601, name: p, role: open, attrs: {'xml:id': pT26p0359a0601}}
+  - {type: punctuation, offset: 15, content: 、, id: KR6i0593_T_000-bkkpn8}
+  - {type: punctuation, offset: 16, content: 、, id: KR6i0593_T_000-bkkpn9}
+  - {type: punctuation, offset: 18, content: ，, id: KR6i0593_T_000-bkkpn10}
+  - {type: punctuation, offset: 22, content: ，, id: KR6i0593_T_000-bkkpn11}
+  - {type: punctuation, offset: 30, content: 。, id: KR6i0593_T_000-bkkpn12}
+  - {type: line-break, offset: 31, content: '', id: KR6i0593_T_000-0359a07, ed: T, 'n': 0359a07}
+  - {type: punctuation, offset: 34, content: ，, id: KR6i0593_T_000-bkkpn13}
+  - {type: punctuation, offset: 38, content: ，, id: KR6i0593_T_000-bkkpn14}
+  - {type: punctuation, offset: 46, content: ，, id: KR6i0593_T_000-bkkpn15}
+  - {type: variant, offset: 46, length: 1, content: 唯, 宋: 惟}
+  - {type: line-break, offset: 47, content: '', id: KR6i0593_T_000-0359a08, ed: T, 'n': 0359a08}
+  - {type: variant, offset: 47, length: 1, content: 顯, 元: 顯經, 明: 顯經}
+  - {type: punctuation, offset: 49, content: 、, id: KR6i0593_T_000-bkkpn16}
+  - {type: punctuation, offset: 53, content: ，, id: KR6i0593_T_000-bkkpn17}
+  - {type: variant, offset: 57, length: 1, content: 憂, 宋: 優, 元: 優, 明: 優}
+  - {type: punctuation, offset: 61, content: 。, id: KR6i0593_T_000-bkkpn18}
+  - {type: line-break, offset: 63, content: '', id: KR6i0593_T_000-0359a09, ed: T, 'n': 0359a09}
+  - {type: punctuation, offset: 65, content: ，, id: KR6i0593_T_000-bkkpn19}
+  - {type: punctuation, offset: 69, content: ，, id: KR6i0593_T_000-bkkpn20}
+  - {type: punctuation, offset: 77, content: 、, id: KR6i0593_T_000-bkkpn21}
+  - {type: line-break, offset: 80, content: '', id: KR6i0593_T_000-0359a10, ed: T, 'n': 0359a10}
+  - {type: punctuation, offset: 85, content: 、, id: KR6i0593_T_000-bkkpn22}
+  - {type: punctuation, offset: 93, content: ，, id: KR6i0593_T_000-bkkpn23}
+  - {type: line-break, offset: 97, content: '', id: KR6i0593_T_000-0359a11, ed: T, 'n': 0359a11}
+  - {type: punctuation, offset: 101, content: ，, id: KR6i0593_T_000-bkkpn24}
+  - {type: line-break, offset: 114, content: '', id: KR6i0593_T_000-0359a12, ed: T, 'n': 0359a12}
+  - {type: punctuation, offset: 125, content: 。, id: KR6i0593_T_000-bkkpn25}
+  - {type: line-break, offset: 131, content: '', id: KR6i0593_T_000-0359a13, ed: T, 'n': 0359a13}
+  - {type: variant, offset: 140, length: 1, content: 渤, 宋: 勃, 元: 勃, 明: 勃}
+  - {type: punctuation, offset: 145, content: ，, id: KR6i0593_T_000-bkkpn26}
+  - {type: line-break, offset: 148, content: '', id: KR6i0593_T_000-0359a14, ed: T, 'n': 0359a14}
+  - {type: punctuation, offset: 153, content: 。, id: KR6i0593_T_000-bkkpn27}
+  - {type: xml-element, offset: 153, content: '', id: pT26p0359a0601_end, name: p, role: close, attrs: {'xml:id': pT26p0359a0601}}
+  - {type: line-break, offset: 153, content: '', id: KR6i0593_T_000-0359a15, ed: T, 'n': 0359a15}
+  - {type: line-break, offset: 153, content: '', id: KR6i0593_T_000-0359a16, ed: T, 'n': 0359a16}
+  - {type: line-break, offset: 153, content: '', id: KR6i0593_T_000-0359a17, ed: T, 'n': 0359a17}
+  body: []
+  back: []
+hash: sha256:50e55c973a57f47cf7ec766853ac54d3550e88fa4b5ab72edae3f92bc9e0df55
