@@ -36,11 +36,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0593_000.yaml, hash: 'sha256:c4a7a083714196e9b8886e22a4757811ad2a05dd6aa7868f3d16e95b851042b6'}
-  - {seq: 1, filename: KR6i0593_001.yaml, hash: 'sha256:3460d820e2018abc7df22c55838ac57b8f396f9af5c9c1467b32e78bb99eaec6'}
+  - {seq: 0, filename: KR6i0593_000.yaml, hash: 'sha256:57edf2c968b7f69f5e160834a328dff1a8b7c107a669779b50cb220444ac0a59'}
+  - {seq: 1, filename: KR6i0593_001.yaml, hash: 'sha256:1da3d978ee7ca7a60b64ea3330e884bac635ec6ee559fd54251c90088e3255b5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0593_000.markers.yaml, hash: 'sha256:60f0eaaf0c856d392a4cf12a2f64d4464d095aeaba2a12754f89bc2715e28e06'}
-  - {seq: 1, role: markers, filename: assets/KR6i0593_001.markers.yaml, hash: 'sha256:fd568bf6313ce65252a6f3ea9dfded3515437ea57fd443238c05c7aa3b2e6e11'}
+  - {seq: 0, role: markers, filename: assets/KR6i0593_000.markers.yaml, hash: 'sha256:8b95090198c5447871b3046be82d7c743effef6419ca9e072c4a00f3c17c9eed'}
+  - {seq: 1, role: markers, filename: assets/KR6i0593_001.markers.yaml, hash: 'sha256:d6e842c5b1eaa885dd99ddf6bfa7413339c2ab990a553a0efe6235065b2b73a1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -62,7 +62,4 @@ table_of_contents:
   label: 三具足經憂波提舍有釋論無經本
   type: juan
   level: 1
-hash: sha256:ca13a05e811296237f6d6a14a7c829c81a1d31785390a779e39e9af7133fde21
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:aee6333d90f222419de19b54efd81a6359db1d5d48e9daf0ef2f963e3f1c4c51
