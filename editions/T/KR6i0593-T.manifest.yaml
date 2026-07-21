@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0593_000-T.yaml, hash: 'sha256:57edf2c968b7f69f5e160834a328dff1a8b7c107a669779b50cb220444ac0a59'}
+  - {seq: 0, filename: KR6i0593_000-T.yaml, hash: 'sha256:9fd7a0a0bf746b9b538add4246f8e981911f51b4ef86da61d8d78c3511455231'}
   - {seq: 1, filename: KR6i0593_001-T.yaml, hash: 'sha256:1da3d978ee7ca7a60b64ea3330e884bac635ec6ee559fd54251c90088e3255b5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0593_000-T.markers.yaml, hash: 'sha256:50e55c973a57f47cf7ec766853ac54d3550e88fa4b5ab72edae3f92bc9e0df55'}
+  - {seq: 0, role: markers, filename: assets/KR6i0593_000-T.markers.yaml, hash: 'sha256:c99bb6988af352f5103004a80084acb45cba0704aa43526de0b8e0aef09ecb73'}
   - {seq: 1, role: markers, filename: assets/KR6i0593_001-T.markers.yaml, hash: 'sha256:a3d6ab51f0c30557631a9c3ea7a4a265a91594e5ce17235387a615fc1130c8f7'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0593_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 優波提舍翻譯之記
@@ -45,4 +45,4 @@ table_of_contents:
   label: 三具足經憂波提舍有釋論無經本
   type: juan
   level: 1
-hash: sha256:e93b93690d93ab09cdf101701a9dfa2957786593ac7c6e9d77a02d01148bf312
+hash: sha256:539bacef081dcda26e0601153e41e3de8c720497ed40db830b95314a4c645618

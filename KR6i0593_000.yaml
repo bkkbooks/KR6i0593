@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6i0593/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 三具足經優波提舍翻譯之記一卷施戒聞三備攝衆行是以如來説名具足法門深邃淺識未窺天親菩薩慈心開示唯顯義弗釋章句是故名為憂波提舍昔出中國今現魏都三藏法師毗目智仙婆羅門人瞿曇流支愛敬法人沙門曇林於鄴城內在金華寺興和三年歲次辛酉月建在戍朔次庚午十三日譯千百十言驃騎大將軍開府儀同三司御史中尉渤海高仲密啓請供養守護流通
   hash: sha256:6c2b55c6894eb9d0bab9d10b5b629f308908732ddd5666dcdf6ec45f3f6ca0b7
   markers:
   - {type: 序, offset: 0, content: 優波提舍翻譯之記, id: KR6i0593_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 三具足經憂波提舍
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T26/T26n1534.xml
     old_id: T26n1534
-hash: sha256:d360b67df3d9c53eda56051041f83660f420140ad355a876670983905a26b641
+hash: sha256:0bccb583ba5178d01f69c658e988eef4b1ee20f278c2c9b52df2c7ce48221100
